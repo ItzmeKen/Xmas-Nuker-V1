@@ -13,7 +13,7 @@ from discord.ext import commands
 intents = discord.Intents.default()
 intents.members = True
 
-KENOP = "OTM5MTIyNzk0NzUzNTgxMDY3.Yf0QQg.n3VV7MhtrwRvBlNxWzJArNKMeDg"
+KENOP = "tok here"
 
 bot = commands.Bot(command_prefix='!',intents=intents)
 bot.remove_command("help")
