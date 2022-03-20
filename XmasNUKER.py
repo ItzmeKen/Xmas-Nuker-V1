@@ -13,7 +13,7 @@ from discord.ext import commands
 intents = discord.Intents.default()
 intents.members = True
 
-bottoken = "OTU0MDI3MjQ2MTE1NDg3NzQ0.YjNJHA.5B1Bgo3vptpwNKRdQx6nQqxMt1Y"
+KENOP = "OTU0MDI3MjQ2MTE1NDg3NzQ0.YjNJHA.5B1Bgo3vptpwNKRdQx6nQqxMt1Y"
 
 bot = commands.Bot(command_prefix='!',intents=intents)
 bot.remove_command("help")
@@ -244,4 +244,4 @@ async def on_ready():
             print(f"{Fore.RED}[  {Fore.GREEN}  -  {Fore.RED} ] {Fore.GREEN} Invalid Input {Fore.RED}:{Fore.WHITE} {option} ")
             time.sleep(3)
 
-bot.run(bottoken)
+bot.run(KENOP)
