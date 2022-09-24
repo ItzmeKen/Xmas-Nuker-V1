@@ -13,3 +13,6 @@ _Its Encrypted Because I Dont Wanna Get My Project Be Skidded By Someone & Obvio
 
 ## CREDITS
 ```Xmas Nuker Was Developed By Ken```
+
+## NOTE
+**ITS NOT A HACKING OR ILLEGAL TOOL OR STUFF LIKE THAT.**
